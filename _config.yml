@@ -22,8 +22,8 @@ title: 김성규 블로그
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
    김성규의 야동 블로그
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: '/jekyll_blog' # the subpath of your site, e.g. /blog
+url: 'https://k0MIN928.github.io
 twitter_username: jekyllrb
 github_username:  jekyll
 
